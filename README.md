@@ -7,14 +7,14 @@ Este repositório contém o projeto desenvolvido para a disciplina Banco de Dado
 ## Ferramentas Utilizadas
 As ferramentas utilizadas para a realização deste projeto foram:
 
-## MYSQL Workbench: Desenvolvimento do Banco de Dados
-## DRAWSQL: Criação dos gráficos referente a modelagem das tabelas
+# MYSQL Workbench: Desenvolvimento do Banco de Dados
+# DRAWSQL: Criação dos gráficos referente a modelagem das tabelas
 
 ## COMPONENTES DO GRUPO:
 
-Yago Davi Cerqueira Nogueira,
- Gabriella Mizrach Benevides,
- Leonardo Alves Moreno,
- Matheus Vinicius Ferreira Costa,
- Thiago Yuri Santos Barreto,
- Samuel de Santana Santos Antunes
+*Yago Davi Cerqueira Nogueira,
+ *Gabriella Mizrach Benevides,
+ *Leonardo Alves Moreno,
+ *Matheus Vinicius Ferreira Costa,
+ *Thiago Yuri Santos Barreto,
+ *Samuel de Santana Santos Antunes
