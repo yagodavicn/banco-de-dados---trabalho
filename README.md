@@ -6,7 +6,6 @@ Este repositório contém o projeto desenvolvido para a disciplina Banco de Dado
 
 ## Ferramentas Utilizadas
 As ferramentas utilizadas para a realização deste projeto foram:
-
 # MYSQL Workbench: Desenvolvimento do Banco de Dados
 # DRAWSQL: Criação dos gráficos referente a modelagem das tabelas
 
