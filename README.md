@@ -12,9 +12,9 @@ As ferramentas utilizadas para a realização deste projeto foram:
 
 ## COMPONENTES DO GRUPO:
 
-Yago Davi Cerqueira Nogueira,
- Gabriella Mizrach Benevides,
- Leonardo Alves Moreno,
- Matheus Vinicius Ferreira Costa,
- Thiago Yuri Santos Barreto,
- Samuel de Santana Santos Antunes
+Yago Davi Cerqueira Nogueira  
+Gabriella Mizrach Benevides  
+Leonardo Alves Moreno  
+Matheus Vinicius Ferreira Costa  
+Thiago Yuri Santos Barreto  
+Samuel de Santana Santos Antunes  
