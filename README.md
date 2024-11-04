@@ -13,8 +13,8 @@ As ferramentas utilizadas para a realização deste projeto foram:
 ## COMPONENTES DO GRUPO:
 
 - Yago Davi Cerqueira Nogueira
-- Gabriella Mizrach Benevides
+- Gabriella Mizrach Benevides [Repositório](https://github.com/GabriellaMizrach/trabalho-banco-de-dados)
 - Leonardo Alves Moreno
-- Matheus Vinicius Ferreira Costa
+- Matheus Vinicius Ferreira Costa [Repositório](https://github.com/DevMatheusVinicius/TRABALHO-DE-BANCO-DE-DADOS---REDES-SOCIAIS---PROFESSOR-C-lio-Ramos)
 - Thiago Yuri Santos Barreto
 - Samuel de Santana Santos Antunes
